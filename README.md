@@ -6,10 +6,17 @@ Add yours via a pull request!
 
 ## Companies using Vite
 
-- [OpenAI](https://openai.com/) (ChatGPT via Remix)
-- [Shopify](https://www.shopify.com/) (React + Vite)
-- [CloudFlare](https://developers.cloudflare.com/) (Astro, Qwik)
-- [Porsche](https://www.porsche.com/) (Astro)
+- OpenAI (ChatGPT via Remix)
+- Google
+- Microsoft
+- NASA (Vue / Nuxt)
+- Shopify (React + Vite)
+- CloudFlare (Astro, Qwik)
+- GitLab (Vue / Nuxt)
+- Porsche (Astro)
+- The Guardian (Astro)
+- New York Times (Svelte / SvelteKit)
+- Upwork (Vue / Nuxt)
 
 ## Frameworks and tools that depend on Vite
 
