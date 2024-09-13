@@ -11,7 +11,7 @@ Add yours via a pull request!
 - Microsoft
 - NASA (Vue / Nuxt)
 - Shopify (React + Vite)
-- CloudFlare (Astro, Qwik)
+- Cloudflare (Astro, Qwik)
 - GitLab (Vue / Nuxt)
 - Porsche (Astro)
 - The Guardian (Astro)
