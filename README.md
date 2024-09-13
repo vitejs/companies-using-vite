@@ -19,6 +19,11 @@ Add yours via a pull request!
 - Upwork (Vue / Nuxt)
 - Reddit
 - Linear
+- StackBlitz
+- Storyblok
+- Bit
+- Hugging Face
+- Sanity
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
