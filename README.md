@@ -1,0 +1,28 @@
+# Who's Using Vite
+
+This is a list of companies that are using Vite to build web applications. Note that this includes companies using [frameworks and tools that depend on Vite](#frameworks-and-tools-that-depend-on-vite) as well.
+
+Add yours via a pull request!
+
+## Companies using Vite
+
+- [OpenAI](https://openai.com/) (ChatGPT via Remix)
+- [Shopify](https://www.shopify.com/) (React + Vite)
+- [CloudFlare](https://developers.cloudflare.com/) (Astro, Qwik)
+- [Porsche](https://www.porsche.com/) (Astro)
+
+## Frameworks and tools that depend on Vite
+
+- [Vue / Nuxt](https://nuxt.com/)
+- [Vitest](https://vitest.dev/)
+- [VitePress](https://vitepress.dev/)
+- [Laravel](https://laravel.com/docs/vite)
+- [Remix](https://remix.run/)
+- [Astro](https://astro.build/)
+- [Svelte / SvelteKit](https://kit.svelte.dev/)
+- [SolidJS / SolidStart](https://start.solidjs.com/)
+- [RedwoodJS](https://redwoodjs.com/)
+- [Qwik](https://qwik.dev/)
+- [Marko](https://markojs.com/)
+- [TanStack Start](https://tanstack.com/start/latest)
+- [Angular 16+](https://blog.angular.dev/angular-v16-is-here-4d7a28ec680d)
