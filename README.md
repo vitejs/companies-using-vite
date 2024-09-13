@@ -17,6 +17,7 @@ Add yours via a pull request!
 - The Guardian (Astro)
 - New York Times (Svelte / SvelteKit)
 - Upwork (Vue / Nuxt)
+- [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
 
