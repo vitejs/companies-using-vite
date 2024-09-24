@@ -12,7 +12,7 @@ Add yours via a pull request!
 - NASA (Vue / Nuxt)
 - Shopify (React + Vite)
 - Cloudflare (Astro, Qwik)
-- GitLab (Vue / Nuxt)
+- GitLab (Vue)
 - Porsche (Astro)
 - The Guardian (Astro)
 - New York Times (Svelte / SvelteKit)
