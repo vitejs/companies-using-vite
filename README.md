@@ -25,6 +25,7 @@ Add yours via a pull request!
 - Hugging Face
 - Sanity
 - Square
+- Stormkit
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
@@ -47,3 +48,5 @@ Add yours via a pull request!
 - [Waku](https://waku.gg/)
 - [Ember](https://emberjs.com/)
 - [Playwright](https://playwright.dev/)
+- [Stormkit Monorepo React](https://github.com/stormkit-io/monorepo-template-react)
+
