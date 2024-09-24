@@ -25,7 +25,7 @@ Add yours via a pull request!
 - Hugging Face
 - Sanity
 - Square
-- Dashlane
+- Dashlane (Viteup / Vitest)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
@@ -48,3 +48,4 @@ Add yours via a pull request!
 - [Waku](https://waku.gg/)
 - [Ember](https://emberjs.com/)
 - [Playwright](https://playwright.dev/)
+- [Viteup](https://github.com/ziir/viteup/)
