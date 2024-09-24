@@ -24,6 +24,7 @@ Add yours via a pull request!
 - Bit
 - Hugging Face
 - Sanity
+- Sequel.io (React + Vite)
 - Square
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
