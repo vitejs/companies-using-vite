@@ -9,6 +9,7 @@ Add yours via a pull request!
 - OpenAI (ChatGPT via Remix)
 - Google
 - Microsoft
+- Nakazawa Tech
 - NASA (Vue / Nuxt)
 - Shopify (React + Vite)
 - Cloudflare (Astro, Qwik)
@@ -34,6 +35,7 @@ Add yours via a pull request!
 - [VitePress](https://vitepress.dev/)
 - [Laravel](https://laravel.com/docs/vite)
 - [Remix](https://remix.run/)
+- [ReMDX](https://github.com/nkzw-tech/remdx)
 - [Astro](https://astro.build/)
 - [Svelte / SvelteKit](https://kit.svelte.dev/)
 - [SolidJS / SolidStart](https://start.solidjs.com/)
