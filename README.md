@@ -25,6 +25,8 @@ Add yours via a pull request!
 - Hugging Face
 - Sanity
 - Square
+- Rewardo (Remix / Vite / Vitest)
+- Neste (Vite / Vitest)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
