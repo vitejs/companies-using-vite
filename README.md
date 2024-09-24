@@ -47,3 +47,4 @@ Add yours via a pull request!
 - [Waku](https://waku.gg/)
 - [Ember](https://emberjs.com/)
 - [Playwright](https://playwright.dev/)
+- [Kestra](https://kestra.io/)
