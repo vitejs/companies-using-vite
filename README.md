@@ -25,6 +25,7 @@ Add yours via a pull request!
 - Hugging Face
 - Sanity
 - Square
+- Moneyfarm (React + Vite)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
