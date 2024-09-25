@@ -30,6 +30,7 @@ Add yours via a pull request!
 - Hugging Face
 - Sanity
 - Square
+- Mastercard
 - Visa (React + Vite)
 - N26
 - Docker
