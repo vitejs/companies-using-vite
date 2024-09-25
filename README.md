@@ -25,7 +25,7 @@ Add yours via a pull request!
 - Hugging Face
 - Sanity
 - Square
-- Gogoro
+- Gogoro (React + Vite)
 - Nx
 - Dorik
 - Exceptionless (Svelte / SvelteKit)
