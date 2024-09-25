@@ -58,6 +58,7 @@ Add yours via a pull request!
 - Sporty.plus (Vue / Nuxt)
 - Plivo
 - MV Labs
+- AV Stumpfl
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
