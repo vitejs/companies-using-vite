@@ -24,7 +24,7 @@ Add yours via a pull request!
 - Bit
 - Hugging Face
 - Sanity
-- [Scalar](https://github.com/scalar/scalar)
+- Scalar
 - Square
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
