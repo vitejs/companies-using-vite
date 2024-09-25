@@ -8,6 +8,7 @@ Add yours via a pull request!
 
 - OpenAI (ChatGPT via Remix)
 - Google
+- Apple
 - Microsoft
 - NASA (Vue / Nuxt)
 - Shopify (React + Vite)
