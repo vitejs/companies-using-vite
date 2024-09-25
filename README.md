@@ -50,7 +50,6 @@ Add yours via a pull request!
 - [VitePress](https://vitepress.dev/)
 - [Laravel](https://laravel.com/docs/vite)
 - [Remix](https://remix.run/)
-- [ReMDX](https://github.com/nkzw-tech/remdx)
 - [Astro](https://astro.build/)
 - [Svelte / SvelteKit](https://kit.svelte.dev/)
 - [SolidJS / SolidStart](https://start.solidjs.com/)
@@ -64,4 +63,5 @@ Add yours via a pull request!
 - [Waku](https://waku.gg/)
 - [Ember](https://emberjs.com/)
 - [Playwright](https://playwright.dev/)
+- [ReMDX](https://github.com/nkzw-tech/remdx)
 - [Viteup](https://github.com/ziir/viteup/)
