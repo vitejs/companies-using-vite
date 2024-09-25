@@ -39,6 +39,7 @@ Add yours via a pull request!
 - Gan.AI (React + Vite)
 - Dashlane (Viteup / Vitest)
 - Malt (Vue / Nuxt)
+- [Builder.io (React + Vite)](https://www.builder.io/c/docs/devtools#developer-quickstart)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
