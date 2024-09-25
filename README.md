@@ -25,6 +25,7 @@ Add yours via a pull request!
 - StackBlitz
 - Storyblok
 - Bit
+- Nakazawa Tech
 - Hugging Face
 - Sanity
 - Square
@@ -39,7 +40,8 @@ Add yours via a pull request!
 - Gan.AI (React + Vite)
 - Dashlane (Viteup / Vitest)
 - Malt (Vue / Nuxt)
-- [Builder.io (React + Vite)](https://www.builder.io/c/docs/devtools#developer-quickstart)
+- Builder.io (React + Vite)
+- PWN (Vue / Nuxt + Vite)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
@@ -62,4 +64,5 @@ Add yours via a pull request!
 - [Waku](https://waku.gg/)
 - [Ember](https://emberjs.com/)
 - [Playwright](https://playwright.dev/)
+- [ReMDX](https://github.com/nkzw-tech/remdx)
 - [Viteup](https://github.com/ziir/viteup/)
