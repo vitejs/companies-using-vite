@@ -45,6 +45,7 @@ Add yours via a pull request!
 - Pennylane
 - LY Corporation
 - Strapi
+- Neon
 - Gan.AI (React + Vite)
 - Dashlane (Viteup / Vitest)
 - Malt (Vue / Nuxt)
