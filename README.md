@@ -42,6 +42,7 @@ Add yours via a pull request!
 - Malt (Vue / Nuxt)
 - PWN (Vue / Nuxt + Vite)
 - Abwaab (Vue / Nuxt)
+- EpicWeb.dev / EpicReact.dev
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
