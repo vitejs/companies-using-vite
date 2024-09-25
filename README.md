@@ -25,6 +25,7 @@ Add yours via a pull request!
 - Hugging Face
 - Sanity
 - Square
+- Nx
 - Dorik
 - Exceptionless (Svelte / SvelteKit)
 - Sleuth (Vue / Nuxt)
