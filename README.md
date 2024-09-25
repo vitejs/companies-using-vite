@@ -10,7 +10,6 @@ Add yours via a pull request!
 - Google
 - Apple
 - Microsoft
-- Nakazawa Tech
 - NASA (Vue / Nuxt)
 - Shopify (React + Vite)
 - Cloudflare (Astro, Qwik)
@@ -26,6 +25,7 @@ Add yours via a pull request!
 - StackBlitz
 - Storyblok
 - Bit
+- Nakazawa Tech
 - Hugging Face
 - Sanity
 - Square
