@@ -19,6 +19,7 @@ Add yours via a pull request!
 - New York Times (Svelte / SvelteKit)
 - Upwork (Vue / Nuxt)
 - Reddit
+- Telefonica Digital
 - Linear
 - StackBlitz
 - Storyblok
