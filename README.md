@@ -30,6 +30,7 @@ Add yours via a pull request!
 - Hugging Face
 - Sanity
 - Square
+- Visa (React + Vite)
 - N26
 - Docker
 - Neste (Vite / Vitest)
