@@ -70,6 +70,7 @@ Add yours via a pull request!
 - Reservix GmbH
 - Tryg
 - Qikify (Vue + Vite)
+- Passionfroot (React + Remix + Vite)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
