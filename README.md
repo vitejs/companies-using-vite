@@ -35,6 +35,7 @@ Add yours via a pull request!
 - Forge 42
 - Moneyfarm (React + Vite)
 - Alpha Centauri
+- Pennylane
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
