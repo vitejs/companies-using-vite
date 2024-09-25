@@ -8,23 +8,71 @@ Add yours via a pull request!
 
 - OpenAI (ChatGPT via Remix)
 - Google
+- Apple
 - Microsoft
 - NASA (Vue / Nuxt)
 - Shopify (React + Vite)
 - Cloudflare (Astro, Qwik)
-- GitLab (Vue / Nuxt)
+- GitLab (Vue)
 - Porsche (Astro)
 - The Guardian (Astro)
 - New York Times (Svelte / SvelteKit)
 - Upwork (Vue / Nuxt)
 - Reddit
+- Telefonica Digital
+- Vodafone (React + Vite)
+- GE Aerospace (Vue)
 - Linear
 - StackBlitz
 - Storyblok
 - Bit
+- Nakazawa Tech
 - Hugging Face
 - Sanity
 - Square
+- Mastercard
+- Visa (React + Vite)
+- N26
+- Docker
+- Neste (Vite / Vitest)
+- Nx
+- Dorik
+- Exceptionless (Svelte / SvelteKit)
+- Crescendo Lab
+- Sleuth (Vue / Nuxt)
+- Forge 42
+- Moneyfarm (React + Vite)
+- Alpha Centauri
+- Pennylane
+- LY Corporation
+- Strapi
+- Neon
+- Gan.AI (React + Vite)
+- Dashlane (Viteup / Vitest)
+- Malt (Vue / Nuxt)
+- Builder.io (React + Vite)
+- PWN (Vue / Nuxt + Vite)
+- Abwaab (Vue / Nuxt)
+- EpicWeb.dev / EpicReact.dev
+- Rewardo (Remix / Vite / Vitest)
+- PayFit (Vite / Vitest / Astro)
+- Gogoro (React + Vite)
+- Nextcloud (Vue)
+- Capgo
+- Padlet (Vue + Vite)
+- CARTO
+- ClockworkLabs (Remix)
+- Sporty.plus (Vue / Nuxt)
+- Plivo
+- MV Labs
+- AV Stumpfl
+- Kong (Vue / Nuxt / React)
+- Nodecraft
+- Multiplai Tech
+- Reservix GmbH
+- Tryg
+- Qikify (Vue + Vite)
+- Passionfroot (React + Remix + Vite)
 - Der Standard (Svelte / SvelteKit)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
@@ -48,3 +96,6 @@ Add yours via a pull request!
 - [Waku](https://waku.gg/)
 - [Ember](https://emberjs.com/)
 - [Playwright](https://playwright.dev/)
+- [ReMDX](https://github.com/nkzw-tech/remdx)
+- [Viteup](https://github.com/ziir/viteup/)
+- [Kestra](https://kestra.io/)
