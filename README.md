@@ -25,6 +25,10 @@ Add yours via a pull request!
 - Hugging Face
 - Sanity
 - Square
+- Nx
+- Dorik
+- Exceptionless (Svelte / SvelteKit)
+- Sleuth (Vue / Nuxt)
 - Forge 42
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
