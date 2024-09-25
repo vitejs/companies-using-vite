@@ -81,6 +81,7 @@ Add yours via a pull request!
 - Jozu
 - Sanacompany.io (React + Vite)
 - EuroSaver
+- TimeTree (Vite / Vitest)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
