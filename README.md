@@ -63,6 +63,7 @@ Add yours via a pull request!
 - MV Labs
 - AV Stumpfl
 - Kong (Vue / Nuxt / React)
+- Nodecraft
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
