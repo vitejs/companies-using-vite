@@ -21,6 +21,7 @@ Add yours via a pull request!
 - Reddit
 - Telefonica Digital
 - Vodafone (React + Vite)
+- GE Aerospace (Vue)
 - Linear
 - StackBlitz
 - Storyblok
