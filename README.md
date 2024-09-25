@@ -41,6 +41,7 @@ Add yours via a pull request!
 - Dashlane (Viteup / Vitest)
 - Malt (Vue / Nuxt)
 - PWN (Vue / Nuxt + Vite)
+- Abwaab (Vue / Nuxt)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
