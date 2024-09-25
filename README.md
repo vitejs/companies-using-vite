@@ -80,6 +80,7 @@ Add yours via a pull request!
 - Sequel.io (React + Vite)
 - Jozu
 - Sanacompany.io (React + Vite)
+- EuroSaver
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
