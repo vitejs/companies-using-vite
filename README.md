@@ -77,6 +77,7 @@ Add yours via a pull request!
 - Passionfroot (React + Remix + Vite)
 - Der Standard (Svelte / SvelteKit)
 - Alibaba (Vue)
+- Sequel.io (React + Vite)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
