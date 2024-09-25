@@ -29,6 +29,7 @@ Add yours via a pull request!
 - Nakazawa Tech
 - Hugging Face
 - Sanity
+- Scalar
 - Square
 - Mastercard
 - Visa (React + Vite)
