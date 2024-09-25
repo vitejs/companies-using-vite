@@ -78,6 +78,7 @@ Add yours via a pull request!
 - Der Standard (Svelte / SvelteKit)
 - Alibaba (Vue)
 - Sequel.io (React + Vite)
+- [Jozu](https://jozu.ml)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
