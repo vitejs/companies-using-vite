@@ -38,6 +38,7 @@ Add yours via a pull request!
 - Nx
 - Dorik
 - Exceptionless (Svelte / SvelteKit)
+- Crescendo Lab
 - Sleuth (Vue / Nuxt)
 - Forge 42
 - Moneyfarm (React + Vite)
