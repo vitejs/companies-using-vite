@@ -55,6 +55,7 @@ Add yours via a pull request!
 - CARTO
 - ClockworkLabs (Remix)
 - Sporty.plus (Vue / Nuxt)
+- Plivo
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
