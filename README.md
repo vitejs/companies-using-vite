@@ -69,6 +69,7 @@ Add yours via a pull request!
 - Multiplai Tech
 - Reservix GmbH
 - Tryg
+- Qikify (Vue + Vite)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
