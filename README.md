@@ -66,6 +66,7 @@ Add yours via a pull request!
 - Nodecraft
 - Multiplai Tech
 - Reservix GmbH
+- Tryg
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
