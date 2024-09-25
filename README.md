@@ -29,6 +29,7 @@ Add yours via a pull request!
 - Hugging Face
 - Sanity
 - Square
+- Neste (Vite / Vitest)
 - Nx
 - Dorik
 - Exceptionless (Svelte / SvelteKit)
@@ -43,6 +44,7 @@ Add yours via a pull request!
 - PWN (Vue / Nuxt + Vite)
 - Abwaab (Vue / Nuxt)
 - EpicWeb.dev / EpicReact.dev
+- Rewardo (Remix / Vite / Vitest)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
