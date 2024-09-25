@@ -52,6 +52,7 @@ Add yours via a pull request!
 - Capgo
 - Padlet (Vue + Vite)
 - CARTO
+- ClockworkLabs (Remix)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
