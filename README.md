@@ -25,6 +25,7 @@ Add yours via a pull request!
 - StackBlitz
 - Storyblok
 - Bit
+- Nakazawa Tech
 - Hugging Face
 - Sanity
 - Square
@@ -62,4 +63,5 @@ Add yours via a pull request!
 - [Waku](https://waku.gg/)
 - [Ember](https://emberjs.com/)
 - [Playwright](https://playwright.dev/)
+- [ReMDX](https://github.com/nkzw-tech/remdx)
 - [Viteup](https://github.com/ziir/viteup/)
