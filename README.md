@@ -47,6 +47,7 @@ Add yours via a pull request!
 - Rewardo (Remix / Vite / Vitest)
 - PayFit (Vite / Vitest / Astro)
 - Gogoro (React + Vite)
+- Nextcloud (Vue)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
