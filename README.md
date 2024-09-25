@@ -46,6 +46,7 @@ Add yours via a pull request!
 - EpicWeb.dev / EpicReact.dev
 - Rewardo (Remix / Vite / Vitest)
 - PayFit (Vite / Vitest / Astro)
+- Gogoro (React + Vite)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
