@@ -20,6 +20,7 @@ Add yours via a pull request!
 - Upwork (Vue / Nuxt)
 - Reddit
 - Telefonica Digital
+- Vodafone (React + Vite)
 - Linear
 - StackBlitz
 - Storyblok
