@@ -8,11 +8,12 @@ Add yours via a pull request!
 
 - OpenAI (ChatGPT via Remix)
 - Google
+- Apple
 - Microsoft
 - NASA (Vue / Nuxt)
 - Shopify (React + Vite)
 - Cloudflare (Astro, Qwik)
-- GitLab (Vue / Nuxt)
+- GitLab (Vue)
 - Porsche (Astro)
 - The Guardian (Astro)
 - New York Times (Svelte / SvelteKit)
@@ -26,6 +27,11 @@ Add yours via a pull request!
 - Sanity
 - Square
 - Multiplai Tech
+- Nx
+- Dorik
+- Exceptionless (Svelte / SvelteKit)
+- Sleuth (Vue / Nuxt)
+- Forge 42
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
