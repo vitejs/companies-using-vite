@@ -65,6 +65,7 @@ Add yours via a pull request!
 - Kong (Vue / Nuxt / React)
 - Nodecraft
 - Multiplai Tech
+- Reservix GmbH
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
