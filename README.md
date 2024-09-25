@@ -49,6 +49,7 @@ Add yours via a pull request!
 - Gan.AI (React + Vite)
 - Dashlane (Viteup / Vitest)
 - Malt (Vue / Nuxt)
+- Builder.io (React + Vite)
 - PWN (Vue / Nuxt + Vite)
 - Abwaab (Vue / Nuxt)
 - EpicWeb.dev / EpicReact.dev
