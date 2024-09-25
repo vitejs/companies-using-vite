@@ -26,6 +26,11 @@ Add yours via a pull request!
 - Sanity
 - Square
 - Gogoro
+- Nx
+- Dorik
+- Exceptionless (Svelte / SvelteKit)
+- Sleuth (Vue / Nuxt)
+- Forge 42
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
