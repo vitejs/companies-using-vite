@@ -33,6 +33,7 @@ Add yours via a pull request!
 - Sleuth (Vue / Nuxt)
 - Forge 42
 - Moneyfarm (React + Vite)
+- Alpha Centauri
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
