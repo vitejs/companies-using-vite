@@ -51,6 +51,7 @@ Add yours via a pull request!
 - Nextcloud (Vue)
 - Capgo
 - Padlet (Vue + Vite)
+- CARTO
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
