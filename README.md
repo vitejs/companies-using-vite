@@ -44,6 +44,7 @@ Add yours via a pull request!
 - Alpha Centauri
 - Pennylane
 - LY Corporation
+- Strapi
 - Gan.AI (React + Vite)
 - Dashlane (Viteup / Vitest)
 - Malt (Vue / Nuxt)
