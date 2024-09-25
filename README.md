@@ -38,6 +38,7 @@ Add yours via a pull request!
 - Moneyfarm (React + Vite)
 - Alpha Centauri
 - Pennylane
+- LY Corporation
 - Gan.AI (React + Vite)
 - Dashlane (Viteup / Vitest)
 - Malt (Vue / Nuxt)
