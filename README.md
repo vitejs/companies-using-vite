@@ -81,6 +81,8 @@ Add yours via a pull request!
 - Jozu
 - Sanacompany.io (React + Vite)
 - EuroSaver
+- TimeTree (Vite / Vitest)
+- Accredify (React + Vite + Inertia + Laravel)
 - SAP (UI5-WebComponent with Vite)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
