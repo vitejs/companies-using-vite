@@ -86,6 +86,7 @@ Add yours via a pull request!
 - SAP (UI5-WebComponent with Vite)
 - Contentsquare (React / Vue / Vite / Vitest)
 - SKLoud SDS (Vue / Vite / Nuxt)
+- AboutYou (React + Vite)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
