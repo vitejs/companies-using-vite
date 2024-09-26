@@ -82,6 +82,7 @@ Add yours via a pull request!
 - Sanacompany.io (React + Vite)
 - EuroSaver
 - TimeTree (Vite / Vitest)
+- Accredify (React + Vite + Inertia + Laravel)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
