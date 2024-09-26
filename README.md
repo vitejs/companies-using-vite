@@ -84,6 +84,7 @@ Add yours via a pull request!
 - TimeTree (Vite / Vitest)
 - Accredify (React + Vite + Inertia + Laravel)
 - SAP (UI5-WebComponent with Vite)
+- Contentsquare (React / Vue / Vite / Vitest)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
