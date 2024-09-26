@@ -83,6 +83,7 @@ Add yours via a pull request!
 - EuroSaver
 - TimeTree (Vite / Vitest)
 - Accredify (React + Vite + Inertia + Laravel)
+- SAP (UI5-WebComponent with Vite)
 - Contentsquare (React / Vue / Vite / Vitest)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
@@ -109,3 +110,4 @@ Add yours via a pull request!
 - [ReMDX](https://github.com/nkzw-tech/remdx)
 - [Viteup](https://github.com/ziir/viteup/)
 - [Kestra](https://kestra.io/)
+- [UI5-WebComponent](https://sap.github.io/ui5-webcomponents/)
