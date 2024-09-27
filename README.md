@@ -85,6 +85,7 @@ Add yours via a pull request!
 - Accredify (React + Vite + Inertia + Laravel)
 - SAP (UI5-WebComponent with Vite)
 - Contentsquare (React / Vue / Vite / Vitest)
+- [marimo](https://marimo.io/)
 - SKLoud SDS (Vue / Vite / Nuxt)
 - AboutYou (React + Vite)
 - Natural Cycles
