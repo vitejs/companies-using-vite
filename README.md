@@ -91,6 +91,7 @@ Add yours via a pull request!
 - BOSS Zhipin (Vue + Vite)
 - Pineify (React + Vite)
 - Fundrise (Vue + Vite + Vitest)
+- [IU Group](https://www.iu.org/)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
