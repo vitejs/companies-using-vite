@@ -90,6 +90,8 @@ Add yours via a pull request!
 - Natural Cycles
 - BOSS Zhipin (Vue + Vite)
 - Pineify (React + Vite)
+- Fundrise (Vue + Vite + Vitest)
+- [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
 
