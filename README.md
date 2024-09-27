@@ -87,7 +87,7 @@ Add yours via a pull request!
 - Contentsquare (React / Vue / Vite / Vitest)
 - SKLoud SDS (Vue / Vite / Nuxt)
 - AboutYou (React + Vite)
-- BOSS Zhipin(Vue + Vite)
+- BOSS Zhipin (Vue + Vite)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
