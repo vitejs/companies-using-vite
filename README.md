@@ -88,6 +88,7 @@ Add yours via a pull request!
 - SKLoud SDS (Vue / Vite / Nuxt)
 - AboutYou (React + Vite)
 - Natural Cycles
+- BOSS Zhipin (Vue + Vite)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
