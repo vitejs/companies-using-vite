@@ -89,7 +89,7 @@ Add yours via a pull request!
 - AboutYou (React + Vite)
 - Natural Cycles
 - BOSS Zhipin (Vue + Vite)
-- [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
+- Pineify (React + Vite)
 
 ## Frameworks and tools that depend on Vite
 
