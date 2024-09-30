@@ -92,6 +92,7 @@ Add yours via a pull request!
 - Pineify (React + Vite)
 - Fundrise (Vue + Vite + Vitest)
 - [IU Group (Vue / Nuxt / Vitest)](https://www.iu.org/)
+- [Movilnet (Vue / Svelte + Sveltekit / React)](http://movilnet.com.ve/sitio/)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
