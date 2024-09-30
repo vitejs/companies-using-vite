@@ -91,6 +91,7 @@ Add yours via a pull request!
 - BOSS Zhipin (Vue + Vite)
 - Pineify (React + Vite)
 - Fundrise (Vue + Vite + Vitest)
+- Exxeta (React/Vue/Solid + Vite)
 - [IU Group (Vue / Nuxt / Vitest)](https://www.iu.org/)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
