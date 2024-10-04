@@ -49,6 +49,7 @@ Add yours via a pull request!
 - LY Corporation
 - Strapi
 - Neon
+- Sort XYZ (Vite / Vitest)
 - Gan.AI (React + Vite)
 - Dashlane (Viteup / Vitest)
 - Malt (Vue / Nuxt)
