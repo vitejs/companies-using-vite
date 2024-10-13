@@ -31,6 +31,7 @@ Add yours via a pull request!
 - Sanity
 - Scalar
 - Square
+- Webgas.net (Laravel, Vue)
 - Inertia Labs (Vue)
 - Mastercard
 - Visa (React + Vite)
