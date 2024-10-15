@@ -103,7 +103,7 @@ Add yours via a pull request!
 - [Laravel](https://laravel.com/docs/vite)
 - [Remix](https://remix.run/)
 - [Astro](https://astro.build/)
-- [Svelte / SvelteKit](https://kit.svelte.dev/)
+- [Svelte](https://svelte.dev/) / [SvelteKit](https://kit.svelte.dev/)
 - [SolidJS / SolidStart](https://start.solidjs.com/)
 - [RedwoodJS](https://redwoodjs.com/)
 - [Qwik / Qwik City](https://qwik.dev/)
