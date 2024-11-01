@@ -6,92 +6,92 @@ Add yours via a pull request!
 
 ## Companies using Vite
 
-- OpenAI (ChatGPT via Remix)
-- Google
-- Apple
-- Microsoft
-- NASA (Vue / Nuxt)
-- Shopify (React + Vite)
-- Cloudflare (Astro, Qwik)
-- GitLab (Vue)
-- Porsche (Astro)
-- The Guardian (Astro)
-- New York Times (Svelte / SvelteKit)
-- Upwork (Vue / Nuxt)
-- Reddit
-- Telefonica Digital
-- Vodafone (React + Vite)
-- GE Aerospace (Vue)
-- Linear
-- StackBlitz
-- Storyblok
-- Bit
-- Nakazawa Tech
-- Hugging Face
-- Sanity
-- Scalar
-- Square
-- Inertia Labs (Vue)
-- Mastercard
-- Visa (React + Vite)
-- N26
-- Docker
-- Neste (Vite / Vitest)
-- Nx
-- Dorik
-- Exceptionless (Svelte / SvelteKit)
-- Crescendo Lab
-- Sleuth (Vue / Nuxt)
-- Forge 42
-- Moneyfarm (React + Vite)
-- Alpha Centauri
-- Pennylane
-- LY Corporation
-- Strapi
-- Neon
-- Gan.AI (React + Vite)
-- Dashlane (Viteup / Vitest)
-- Malt (Vue / Nuxt)
-- Builder.io (React + Vite)
-- PWN (Vue / Nuxt + Vite)
-- Abwaab (Vue / Nuxt)
-- EpicWeb.dev / EpicReact.dev
-- Rewardo (Remix / Vite / Vitest)
-- PayFit (Vite / Vitest / Astro)
-- Gogoro (React + Vite)
-- Nextcloud (Vue)
-- Capgo
-- Padlet (Vue + Vite)
-- CARTO
-- ClockworkLabs (Remix)
-- Sporty.plus (Vue / Nuxt)
-- Plivo
-- MV Labs
-- AV Stumpfl
-- Kong (Vue / Nuxt / React)
-- Nodecraft
-- Multiplai Tech
-- Reservix GmbH
-- Tryg
-- Qikify (Vue + Vite)
-- Passionfroot (React + Remix + Vite)
-- Der Standard (Svelte / SvelteKit)
-- Alibaba (Vue)
-- Sequel.io (React + Vite)
-- Jozu
-- Sanacompany.io (React + Vite)
-- EuroSaver
-- TimeTree (Vite / Vitest)
-- Accredify (React + Vite + Inertia + Laravel)
-- SAP (UI5-WebComponent with Vite)
-- Contentsquare (React / Vue / Vite / Vitest)
-- SKLoud SDS (Vue / Vite / Nuxt)
-- AboutYou (React + Vite)
-- Natural Cycles
-- BOSS Zhipin (Vue + Vite)
-- Pineify (React + Vite)
-- Fundrise (Vue + Vite + Vitest)
-- IU Group (Vue / Nuxt / Vitest)
+- [OpenAI](https://openai.com/) (ChatGPT via Remix)
+- [Google](https://google.com/)
+- [Apple](https://apple.com/)
+- [Microsoft](https://microsoft.com/)
+- [NASA](https://nasa.gov/) (Vue / Nuxt)
+- [Shopify](https://shopify.com/) (React + Vite)
+- [Cloudflare](https://cloudflare.com/) (Astro, Qwik)
+- [GitLab](https://about.gitlab.com/) (Vue)
+- [Porsche](https://porsche.com/) (Astro)
+- [The Guardian](https://theguardian.com/) (Astro)
+- [New York Times](https://nytimes.com/) (Svelte / SvelteKit)
+- [Upwork](https://upwork.com/) (Vue / Nuxt)
+- [Reddit](https://reddit.com/)
+- [Telefonica Digital](https://telefonica.com/)
+- [Vodafone](https://vodafone.com/) (React + Vite)
+- [GE Aerospace](https://geaerospace.com/) (Vue)
+- [Linear](https://linear.app/)
+- [StackBlitz](https://stackblitz.com/)
+- [Storyblok](https://storyblok.com/)
+- [Bit](https://bit.dev/)
+- [Nakazawa Tech](https://nakazawa.tech/)
+- [Hugging Face](https://huggingface.co/)
+- [Sanity](https://sanity.io/)
+- [Scalar](https://scalar.com/)
+- [Square](https://squareup.com/)
+- [Inertia Labs](https://inertia.social/) (Vue)
+- [Mastercard](https://mastercard.com/)
+- [Visa](https://visa.com/) (React + Vite)
+- [N26](https://n26.com/)
+- [Docker](https://docker.com/)
+- [Neste](https://neste.com/) (Vite / Vitest)
+- [Nx](https://nx.dev/)
+- [Dorik](https://dorik.com/)
+- [Exceptionless](https://exceptionless.com/) (Svelte / SvelteKit)
+- [Crescendo Lab](https://crescendo-lab.com/)
+- [Sleuth](https://sleuth.io/) (Vue / Nuxt)
+- [Forge 42](https://forge42.com/)
+- [Moneyfarm](https://moneyfarm.com/) (React + Vite)
+- [Alpha Centauri](https://alpha-centauri.com/)
+- [Pennylane](https://pennylane.tech/)
+- [LY Corporation](https://ly.com/)
+- [Strapi](https://strapi.io/)
+- [Neon](https://neon.tech/)
+- [Gan.AI](https://gan.ai/) (React + Vite)
+- [Dashlane](https://dashlane.com/) (Viteup / Vitest)
+- [Malt](https://malt.com/) (Vue / Nuxt)
+- [Builder.io](https://builder.io/) (React + Vite)
+- [PWN](https://pwn.pl/) (Vue / Nuxt + Vite)
+- [Abwaab](https://abwaab.me/) (Vue / Nuxt)
+- [EpicWeb.dev](https://epicweb.dev/) / [EpicReact.dev](https://epicreact.dev/)
+- [Rewardo](https://rewardo.io/) (Remix / Vite / Vitest)
+- [PayFit](https://payfit.com/) (Vite / Vitest / Astro)
+- [Gogoro](https://gogoro.com/) (React + Vite)
+- [Nextcloud](https://nextcloud.com/) (Vue)
+- [Capgo](https://capgo.app/)
+- [Padlet](https://padlet.com/) (Vue + Vite)
+- [CARTO](https://carto.com/)
+- [ClockworkLabs](https://clockworklabs.io/) (Remix)
+- [Sporty.plus](https://sporty.plus/) (Vue / Nuxt)
+- [Plivo](https://plivo.com/)
+- [MV Labs](https://mv-labs.com/)
+- [AV Stumpfl](https://avstumpfl.com/)
+- [Kong](https://konghq.com/) (Vue / Nuxt / React)
+- [Nodecraft](https://nodecraft.com/)
+- [Multiplai Tech](https://multiplai.io/)
+- [Reservix GmbH](https://reservix.de/)
+- [Tryg](https://tryg.com/)
+- [Qikify](https://qikify.com/) (Vue + Vite)
+- [Passionfroot](https://passionfroot.me/) (React + Remix + Vite)
+- [Der Standard](https://derstandard.at/) (Svelte / SvelteKit)
+- [Alibaba](https://alibaba.com/) (Vue)
+- [Sequel.io](https://sequel.io/) (React + Vite)
+- [Jozu](https://jozu.io/)
+- [Sanacompany.io](https://sanacompany.io/) (React + Vite)
+- [EuroSaver](https://eurosaver.com/)
+- [TimeTree](https://timetreeapp.com/) (Vite / Vitest)
+- [Accredify](https://accredify.io/) (React + Vite + Inertia + Laravel)
+- [SAP](https://sap.com/) (UI5-WebComponent with Vite)
+- [Contentsquare](https://contentsquare.com/) (React / Vue / Vite / Vitest)
+- [SKLoud SDS](https://skloud.io/) (Vue / Vite / Nuxt)
+- [AboutYou](https://aboutyou.com/) (React + Vite)
+- [Natural Cycles](https://naturalcycles.com/)
+- [BOSS Zhipin](https://zhipin.com/) (Vue + Vite)
+- [Pineify](https://pineify.com/) (React + Vite)
+- [Fundrise](https://fundrise.com/) (Vue + Vite + Vitest)
+- [IU Group](https://iu-group.com/) (Vue / Nuxt / Vitest)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
