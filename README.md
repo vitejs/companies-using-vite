@@ -98,6 +98,7 @@ Add yours via a pull request!
 - Hikvision (Vue + Vite)
 - 光合新知 (Vue + Vite)
 - Exxeta (React / Vue / Solid + Vite)
+- Buffer
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
