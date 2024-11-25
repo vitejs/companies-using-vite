@@ -95,6 +95,7 @@ Add yours via a pull request!
 - lamenu.uz
 - Webgas.net (Laravel, Vue)
 - marimo
+- Hikvision (Vue + Vite)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
