@@ -92,12 +92,13 @@ Add yours via a pull request!
 - BOSS Zhipin (Vue + Vite)
 - Pineify (React + Vite)
 - Fundrise (Vue + Vite + Vitest)
-- [IU Group (Vue / Nuxt / Vitest)](https://www.iu.org/)
+- IU Group (Vue / Nuxt / Vitest)
+- lamenu.uz
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
 
-- [Vue / Nuxt](https://nuxt.com/)
+- [Vue](https://vuejs.org) / [Nuxt](https://nuxt.com/)
 - [Vitest](https://vitest.dev/)
 - [VitePress](https://vitepress.dev/)
 - [Laravel](https://laravel.com/docs/vite)
