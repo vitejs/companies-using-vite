@@ -93,6 +93,7 @@ Add yours via a pull request!
 - Fundrise (Vue + Vite + Vitest)
 - IU Group (Vue / Nuxt / Vitest)
 - lamenu.uz
+- Webgas.net (Laravel, Vue)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
