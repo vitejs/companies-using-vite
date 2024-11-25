@@ -96,7 +96,7 @@ Add yours via a pull request!
 
 ## Frameworks and tools that depend on Vite
 
-- [Vue / Nuxt](https://nuxt.com/)
+- [Vue](https://vuejs.org) / [Nuxt](https://nuxt.com/)
 - [Vitest](https://vitest.dev/)
 - [VitePress](https://vitepress.dev/)
 - [Laravel](https://laravel.com/docs/vite)
