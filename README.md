@@ -92,12 +92,23 @@ Add yours via a pull request!
 - Pineify (React + Vite)
 - Fundrise (Vue + Vite + Vitest)
 - IU Group (Vue / Nuxt / Vitest)
+- lamenu.uz
+- Webgas.net (Laravel, Vue)
+- marimo
+- Hikvision (Vue + Vite)
+- 光合新知 (Vue + Vite)
+- Exxeta (React / Vue / Solid + Vite)
+- Buffer
+- Scrums (Vite + Vitest)
+- Sort XYZ (Vite / Vitest)
+- OGS Gesellschaft für Datenverarbeitung und Systemberatung mbH (Analog + Angular + Vitest)
+- Coditive (WordPress / Vue / Nuxt)
 - Devo Inc. (React + Vite + Vitest)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
 
-- [Vue / Nuxt](https://nuxt.com/)
+- [Vue](https://vuejs.org) / [Nuxt](https://nuxt.com/)
 - [Vitest](https://vitest.dev/)
 - [VitePress](https://vitepress.dev/)
 - [Laravel](https://laravel.com/docs/vite)
@@ -119,3 +130,4 @@ Add yours via a pull request!
 - [Viteup](https://github.com/ziir/viteup/)
 - [Kestra](https://kestra.io/)
 - [UI5-WebComponent](https://sap.github.io/ui5-webcomponents/)
+- [DMNO](https://dmno.dev)
