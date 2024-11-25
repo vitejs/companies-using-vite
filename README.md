@@ -92,18 +92,20 @@ Add yours via a pull request!
 - BOSS Zhipin (Vue + Vite)
 - Pineify (React + Vite)
 - Fundrise (Vue + Vite + Vitest)
-- [IU Group (Vue / Nuxt / Vitest)](https://www.iu.org/)
+- IU Group (Vue / Nuxt / Vitest)
+- lamenu.uz
+- Webgas.net (Laravel, Vue)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
 
-- [Vue / Nuxt](https://nuxt.com/)
+- [Vue](https://vuejs.org) / [Nuxt](https://nuxt.com/)
 - [Vitest](https://vitest.dev/)
 - [VitePress](https://vitepress.dev/)
 - [Laravel](https://laravel.com/docs/vite)
 - [Remix](https://remix.run/)
 - [Astro](https://astro.build/)
-- [Svelte / SvelteKit](https://kit.svelte.dev/)
+- [Svelte](https://svelte.dev/) / [SvelteKit](https://kit.svelte.dev/)
 - [SolidJS / SolidStart](https://start.solidjs.com/)
 - [RedwoodJS](https://redwoodjs.com/)
 - [Qwik / Qwik City](https://qwik.dev/)
