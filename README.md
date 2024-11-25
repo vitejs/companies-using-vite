@@ -49,7 +49,6 @@ Add yours via a pull request!
 - LY Corporation
 - Strapi
 - Neon
-- Sort XYZ (Vite / Vitest)
 - Gan.AI (React + Vite)
 - Dashlane (Viteup / Vitest)
 - Malt (Vue / Nuxt)
@@ -101,6 +100,7 @@ Add yours via a pull request!
 - Exxeta (React / Vue / Solid + Vite)
 - Buffer
 - Scrums (Vite + Vitest)
+- Sort XYZ (Vite / Vitest)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
