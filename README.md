@@ -101,6 +101,7 @@ Add yours via a pull request!
 - Buffer
 - Scrums (Vite + Vitest)
 - Sort XYZ (Vite / Vitest)
+- OGS Gesellschaft für Datenverarbeitung und Systemberatung mbH (Analog + Angular + Vitest)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
