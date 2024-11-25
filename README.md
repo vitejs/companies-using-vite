@@ -100,6 +100,7 @@ Add yours via a pull request!
 - Exxeta (React / Vue / Solid + Vite)
 - Buffer
 - Scrums (Vite + Vitest)
+- Sort XYZ (Vite / Vitest)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
