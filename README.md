@@ -48,5 +48,4 @@ Add yours via a pull request!
 - [Waku](https://waku.gg/)
 - [Ember](https://emberjs.com/)
 - [Playwright](https://playwright.dev/)
-- [Stormkit Monorepo React](https://github.com/stormkit-io/monorepo-template-react)
 
