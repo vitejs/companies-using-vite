@@ -104,6 +104,7 @@ Add yours via a pull request!
 - OGS Gesellschaft für Datenverarbeitung und Systemberatung mbH (Analog + Angular + Vitest)
 - Coditive (WordPress / Vue / Nuxt)
 - Devo Inc. (React + Vite + Vitest)
+- [Mantra Ideas Pvt. Ltd.](https://mantraideas.com)  (Laravel + Vite) / (React + Vite + Vitest) / (Vue + Vite)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
