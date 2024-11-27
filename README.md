@@ -8,35 +8,115 @@ Add yours via a pull request!
 
 - OpenAI (ChatGPT via Remix)
 - Google
+- Apple
 - Microsoft
 - NASA (Vue / Nuxt)
 - Shopify (React + Vite)
 - Cloudflare (Astro, Qwik)
-- GitLab (Vue / Nuxt)
+- 
+- GitLab (Vue)
 - Porsche (Astro)
 - The Guardian (Astro)
 - New York Times (Svelte / SvelteKit)
 - Upwork (Vue / Nuxt)
 - Reddit
+- Telefonica Digital
+- Vodafone (React + Vite)
+- GE Aerospace (Vue)
 - Linear
 - StackBlitz
 - Storyblok
 - Bit
+- Nakazawa Tech
 - Hugging Face
 - Sanity
+- Scalar
 - Square
-- Stormkit
+- Inertia Labs (Vue)
+- Mastercard
+- Visa (React + Vite)
+- N26
+- Docker
+- Neste (Vite / Vitest)
+- Nx
+- Dorik
+- Exceptionless (Svelte / SvelteKit)
+- Crescendo Lab
+- Sleuth (Vue / Nuxt)
+- Forge 42
+- Moneyfarm (React + Vite)
+- Alpha Centauri
+- Pennylane
+- LY Corporation
+- Strapi
+- Neon
+- Gan.AI (React + Vite)
+- Dashlane (Viteup / Vitest)
+- Malt (Vue / Nuxt)
+- Builder.io (React + Vite)
+- PWN (Vue / Nuxt + Vite)
+- Abwaab (Vue / Nuxt)
+- EpicWeb.dev / EpicReact.dev
+- Rewardo (Remix / Vite / Vitest)
+- PayFit (Vite / Vitest / Astro)
+- Gogoro (React + Vite)
+- Nextcloud (Vue)
+- Capgo
+- Padlet (Vue + Vite)
+- CARTO
+- ClockworkLabs (Remix)
+- Sporty.plus (Vue / Nuxt)
+- Plivo
+- MV Labs
+- AV Stumpfl
+- Kong (Vue / Nuxt / React)
+- Nodecraft
+- Multiplai Tech
+- Reservix GmbH
+- Tryg
+- Qikify (Vue + Vite)
+- Passionfroot (React + Remix + Vite)
+- Der Standard (Svelte / SvelteKit)
+- Alibaba (Vue)
+- Sequel.io (React + Vite)
+- Jozu
+- Sanacompany.io (React + Vite)
+- EuroSaver
+- TimeTree (Vite / Vitest)
+- Accredify (React + Vite + Inertia + Laravel)
+- SAP (UI5-WebComponent with Vite)
+- Contentsquare (React / Vue / Vite / Vitest)
+- SKLoud SDS (Vue / Vite / Nuxt)
+- AboutYou (React + Vite)
+- Natural Cycles
+- BOSS Zhipin (Vue + Vite)
+- Pineify (React + Vite)
+- Fundrise (Vue + Vite + Vitest)
+- IU Group (Vue / Nuxt / Vitest)
+- lamenu.uz
+- Webgas.net (Laravel, Vue)
+- marimo
+- Hikvision (Vue + Vite)
+- 光合新知 (Vue + Vite)
+- Exxeta (React / Vue / Solid + Vite)
+- Buffer
+- Scrums (Vite + Vitest)
+- Sort XYZ (Vite / Vitest)
+- OGS Gesellschaft für Datenverarbeitung und Systemberatung mbH (Analog + Angular + Vitest)
+- Coditive (WordPress / Vue / Nuxt)
+- Devo Inc. (React + Vite + Vitest)
+- Stormkit (React + Vite)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
 
-- [Vue / Nuxt](https://nuxt.com/)
+- [Vue](https://vuejs.org) / [Nuxt](https://nuxt.com/)
 - [Vitest](https://vitest.dev/)
 - [VitePress](https://vitepress.dev/)
 - [Laravel](https://laravel.com/docs/vite)
 - [Remix](https://remix.run/)
 - [Astro](https://astro.build/)
-- [Svelte / SvelteKit](https://kit.svelte.dev/)
+- [Svelte](https://svelte.dev/) / [SvelteKit](https://kit.svelte.dev/)
 - [SolidJS / SolidStart](https://start.solidjs.com/)
 - [RedwoodJS](https://redwoodjs.com/)
 - [Qwik / Qwik City](https://qwik.dev/)
@@ -48,4 +128,8 @@ Add yours via a pull request!
 - [Waku](https://waku.gg/)
 - [Ember](https://emberjs.com/)
 - [Playwright](https://playwright.dev/)
-
+- [ReMDX](https://github.com/nkzw-tech/remdx)
+- [Viteup](https://github.com/ziir/viteup/)
+- [Kestra](https://kestra.io/)
+- [UI5-WebComponent](https://sap.github.io/ui5-webcomponents/)
+- [DMNO](https://dmno.dev)
