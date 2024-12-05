@@ -105,6 +105,7 @@ Add yours via a pull request!
 - Coditive (WordPress / Vue / Nuxt)
 - Devo Inc. (React + Vite + Vitest)
 - [Mantra Ideas Pvt. Ltd.](https://mantraideas.com)  (Laravel + Vite) / (React + Vite + Vitest) / (Vue + Vite)
+- Stormkit (React + Vite)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
