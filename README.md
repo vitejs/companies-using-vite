@@ -113,6 +113,7 @@ Add yours via a pull request!
 - Smartbees (Drupal + Vue + Vite + Storybook)
 - Fieldbook
 - Streets Heaver (React + Vite + Vitest)
+- loveholidays (Preact + Vite + Vitest)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
