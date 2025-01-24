@@ -104,13 +104,13 @@ Add yours via a pull request!
 - OGS Gesellschaft für Datenverarbeitung und Systemberatung mbH (Analog + Angular + Vitest)
 - Coditive (WordPress / Vue / Nuxt)
 - Devo Inc. (React + Vite + Vitest)
-- Smartbees (Drupal + Vue + Vite + Storybook)
 - Stormkit (React + Vite)
 - The Washington Post (Astro, React + Vite)
 - Kpler (Vue + Vite + Vitest)
 - Schibsted
 - Ramp (React + Vite + Vitest)
 - Directus (Vue / Nuxt)
+- Smartbees (Drupal + Vue + Vite + Storybook)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
