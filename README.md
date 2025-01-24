@@ -106,6 +106,11 @@ Add yours via a pull request!
 - Devo Inc. (React + Vite + Vitest)
 - Smartbees (Drupal + Vue + Vite + Storybook)
 - Stormkit (React + Vite)
+- The Washington Post (Astro, React + Vite)
+- Kpler (Vue + Vite + Vitest)
+- Schibsted
+- Ramp (React + Vite + Vitest)
+- Directus (Vue / Nuxt)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
