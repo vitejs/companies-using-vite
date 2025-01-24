@@ -109,6 +109,7 @@ Add yours via a pull request!
 - Kpler (Vue + Vite + Vitest)
 - Schibsted
 - Ramp (React + Vite + Vitest)
+- Directus (Vue / Nuxt)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
