@@ -111,6 +111,7 @@ Add yours via a pull request!
 - Ramp (React + Vite + Vitest)
 - Directus (Vue / Nuxt)
 - Smartbees (Drupal + Vue + Vite + Storybook)
+- Fieldbook
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
