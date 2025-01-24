@@ -120,6 +120,7 @@ Add yours via a pull request!
 - Sportradar (Vite + Vitest + Vue + Nuxt)
 - Mercedes Benz (Vue + Vite + Vitest + Vitepress + Slidev)
 - Famobi (React + Vite)
+- KNIME (Vue / Nuxt)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
