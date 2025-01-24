@@ -118,6 +118,7 @@ Add yours via a pull request!
 - Mantra Ideas (Laravel + Vite, React + Vite + Vitest, Vue + Vite)
 - Remato
 - Sportradar (Vite + Vitest + Vue + Nuxt)
+- Mercedes Benz (Vue + Vite + Vitest + Vitepress + Slidev)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
