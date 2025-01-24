@@ -106,6 +106,17 @@ Add yours via a pull request!
 - Devo Inc. (React + Vite + Vitest)
 - Remato
 - Stormkit (React + Vite)
+- The Washington Post (Astro, React + Vite)
+- Kpler (Vue + Vite + Vitest)
+- Schibsted
+- Ramp (React + Vite + Vitest)
+- Directus (Vue / Nuxt)
+- Smartbees (Drupal + Vue + Vite + Storybook)
+- Fieldbook
+- Streets Heaver (React + Vite + Vitest)
+- loveholidays (Preact + Vite + Vitest)
+- PRISMA European Capacity Platform (React + Vite)
+- Mantra Ideas (Laravel + Vite, React + Vite + Vitest, Vue + Vite)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
@@ -133,3 +144,4 @@ Add yours via a pull request!
 - [Kestra](https://kestra.io/)
 - [UI5-WebComponent](https://sap.github.io/ui5-webcomponents/)
 - [DMNO](https://dmno.dev)
+- [Vite Drupal plugin](https://www.drupal.org/project/vite)
