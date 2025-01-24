@@ -116,6 +116,7 @@ Add yours via a pull request!
 - loveholidays (Preact + Vite + Vitest)
 - PRISMA European Capacity Platform (React + Vite)
 - Mantra Ideas (Laravel + Vite, React + Vite + Vitest, Vue + Vite)
+- Remato
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
