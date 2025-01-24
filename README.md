@@ -106,6 +106,7 @@ Add yours via a pull request!
 - Devo Inc. (React + Vite + Vitest)
 - Stormkit (React + Vite)
 - The Washington Post (Astro, React + Vite)
+- Kpler (Vue + Vite + Vitest)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
