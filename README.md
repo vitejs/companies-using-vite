@@ -104,6 +104,11 @@ Add yours via a pull request!
 - OGS Gesellschaft für Datenverarbeitung und Systemberatung mbH (Analog + Angular + Vitest)
 - Coditive (WordPress / Vue / Nuxt)
 - Devo Inc. (React + Vite + Vitest)
+- Stormkit (React + Vite)
+- The Washington Post (Astro, React + Vite)
+- Kpler (Vue + Vite + Vitest)
+- Schibsted
+- Ramp (React + Vite + Vitest)
 - Directus (Vue / Nuxt)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
