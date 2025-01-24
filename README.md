@@ -110,6 +110,7 @@ Add yours via a pull request!
 - Schibsted
 - Ramp (React + Vite + Vitest)
 - Directus (Vue / Nuxt)
+- Smartbees (Drupal + Vue + Vite + Storybook)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
@@ -137,3 +138,4 @@ Add yours via a pull request!
 - [Kestra](https://kestra.io/)
 - [UI5-WebComponent](https://sap.github.io/ui5-webcomponents/)
 - [DMNO](https://dmno.dev)
+- [Vite Drupal plugin](https://www.drupal.org/project/vite)
