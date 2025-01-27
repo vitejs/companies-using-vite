@@ -101,6 +101,7 @@ Add yours via a pull request!
 - Buffer
 - Scrums (Vite + Vitest)
 - Sort XYZ (Vite / Vitest)
+- Ayvens Netherlands (Vue + Vite + Vitest)
 - OGS Gesellschaft für Datenverarbeitung und Systemberatung mbH (Analog + Angular + Vitest)
 - Coditive (WordPress / Vue / Nuxt)
 - Devo Inc. (React + Vite + Vitest)
