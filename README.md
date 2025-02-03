@@ -121,6 +121,7 @@ Add yours via a pull request!
 - Mercedes Benz (Vue + Vite + Vitest + Vitepress + Slidev)
 - Famobi (React + Vite)
 - KNIME (Vue / Nuxt)
+- Smake IT GmbH (Vue / Nuxt / Vitest / VitePress / Storybook / Playwright)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
