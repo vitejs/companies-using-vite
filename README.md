@@ -121,6 +121,7 @@ Add yours via a pull request!
 - Mercedes Benz (Vue + Vite + Vitest + Vitepress + Slidev)
 - Famobi (React + Vite)
 - KNIME (Vue / Nuxt)
+- [AllFactors](https://allfactors.com) (Django + Go + React + Vite)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
