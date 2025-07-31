@@ -128,6 +128,7 @@ Add yours via a pull request!
 - Papaya Insurtech (React + Vite)
 - Hornetsecurity
 - Pequity (Vue + Vite + Vitest)
+- Meadow (React + Vite + Vitest)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
