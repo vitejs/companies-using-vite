@@ -105,6 +105,37 @@ Add yours via a pull request!
 - Coditive (WordPress / Vue / Nuxt)
 - Devo Inc. (React + Vite + Vitest)
 - Stormkit (React + Vite)
+- The Washington Post (Astro, React + Vite)
+- Kpler (Vue + Vite + Vitest)
+- Schibsted
+- Ramp (React + Vite + Vitest)
+- Directus (Vue / Nuxt)
+- Smartbees (Drupal + Vue + Vite + Storybook)
+- Fieldbook
+- Streets Heaver (React + Vite + Vitest)
+- loveholidays (Preact + Vite + Vitest)
+- PRISMA European Capacity Platform (React + Vite)
+- Mantra Ideas (Laravel + Vite, React + Vite + Vitest, Vue + Vite)
+- Remato
+- Sportradar (Vite + Vitest + Vue + Nuxt)
+- Mercedes Benz (Vue + Vite + Vitest + Vitepress + Slidev)
+- Famobi (React + Vite)
+- KNIME (Vue / Nuxt)
+- Ayvens Netherlands (Vue + Vite + Vitest)
+- Shanghai Candy Rectangle Technology Co., Ltd. (WordPress / Vue + Vite / Nuxt)
+- Travelpass (Remix + Vite + Vitest)
+- Kaspi.kz
+- Papaya Insurtech (React + Vite)
+- Hornetsecurity
+- Pequity (Vue + Vite + Vitest)
+- Meadow (React + Vite + Vitest)
+- Elate (React + Vite + Vitest)
+- Sizzle.gg (Remix+ Vite + Vitest)
+- Segments.ai (Vue + Vite + Vitest)
+- Bitfactory NL / NOBEARS (Vue + InertiaJS + Nuxt + Laravel + WordPress)
+- Riqra (React + Vite)
+- ASICS Technology (Vue + Vite)
+- Kinde (vite + vitest)
 - Red Hat, Inc
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
@@ -133,3 +164,4 @@ Add yours via a pull request!
 - [Kestra](https://kestra.io/)
 - [UI5-WebComponent](https://sap.github.io/ui5-webcomponents/)
 - [DMNO](https://dmno.dev)
+- [Vite Drupal plugin](https://www.drupal.org/project/vite)
