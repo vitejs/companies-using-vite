@@ -156,6 +156,7 @@ Add yours via a pull request!
 - MyStofa (React / Vue / Vitest / Vite)
 - dbrand (Svelte / SvelteKit)
 - Qualcomm (React/Node/Angular + Vite + Vitest)
+- Recreational Equipment, Inc. (Vite / Vitest / Vue / Nuxt)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
