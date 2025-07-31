@@ -146,6 +146,7 @@ Add yours via a pull request!
 - Vermont Open Source Project Office @ the University of Vermont (Vue+Vite, Sveltekit)
 - Aqora Quantum (React + Relay + Vite)
 - Amygdal (React + Vite + Vitest + Vue + Remix + Sveltekit)
+- HENNGE (React / Vue / Vite / Vitest / Remix)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
