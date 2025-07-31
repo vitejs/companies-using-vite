@@ -121,6 +121,22 @@ Add yours via a pull request!
 - Mercedes Benz (Vue + Vite + Vitest + Vitepress + Slidev)
 - Famobi (React + Vite)
 - KNIME (Vue / Nuxt)
+- Ayvens Netherlands (Vue + Vite + Vitest)
+- Shanghai Candy Rectangle Technology Co., Ltd. (WordPress / Vue + Vite / Nuxt)
+- Travelpass (Remix + Vite + Vitest)
+- Kaspi.kz
+- Papaya Insurtech (React + Vite)
+- Hornetsecurity
+- Pequity (Vue + Vite + Vitest)
+- Meadow (React + Vite + Vitest)
+- Elate (React + Vite + Vitest)
+- Sizzle.gg (Remix+ Vite + Vitest)
+- Segments.ai (Vue + Vite + Vitest)
+- Bitfactory NL / NOBEARS (Vue + InertiaJS + Nuxt + Laravel + WordPress)
+- Riqra (React + Vite)
+- ASICS Technology (Vue + Vite)
+- Kinde (vite + vitest)
+- Red Hat, Inc
 - Smake IT GmbH (Vue / Nuxt / Vitest / VitePress / Storybook / Playwright)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
