@@ -149,6 +149,7 @@ Add yours via a pull request!
 - HENNGE (React / Vue / Vite / Vitest / Remix)
 - DoShare Cloud (Nuxt + Vite and Next + Vite)
 - Insurance Bureau of Canada (React + Vite)
+- Annexio Ltd (Vite + Vue + Nuxt)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
