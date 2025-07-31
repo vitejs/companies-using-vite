@@ -144,6 +144,7 @@ Add yours via a pull request!
 - Virtru (React + Vite + Vitest)
 - Analog Devices (React + Vite + Vitest)
 - Vermont Open Source Project Office @ the University of Vermont (Vue+Vite, Sveltekit)
+- Aqora Quantum (React + Relay + Vite)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
