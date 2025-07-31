@@ -138,6 +138,7 @@ Add yours via a pull request!
 - Kinde (vite + vitest)
 - Red Hat, Inc
 - Smake IT GmbH (Vue / Nuxt / Vitest / VitePress / Storybook / Playwright)
+- Shaadi.com (React + Vite)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
