@@ -145,6 +145,7 @@ Add yours via a pull request!
 - Analog Devices (React + Vite + Vitest)
 - Vermont Open Source Project Office @ the University of Vermont (Vue+Vite, Sveltekit)
 - Aqora Quantum (React + Relay + Vite)
+- Amygdal (React + Vite + Vitest + Vue + Remix + Sveltekit)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
