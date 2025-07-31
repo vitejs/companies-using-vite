@@ -165,6 +165,7 @@ Add yours via a pull request!
 - AllFactors (Django + Go + React + Vite)
 - Deputy (Vue + Vite + Vitest)
 - Bas Software (React + Vite + Vitest)
+- Vitalize Care (React + Vite)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
