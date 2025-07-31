@@ -124,6 +124,7 @@ Add yours via a pull request!
 - Ayvens Netherlands (Vue + Vite + Vitest)
 - Shanghai Candy Rectangle Technology Co., Ltd. (WordPress / Vue + Vite / Nuxt)
 - Travelpass (Remix + Vite + Vitest)
+- Kaspi.kz
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
