@@ -147,6 +147,7 @@ Add yours via a pull request!
 - Aqora Quantum (React + Relay + Vite)
 - Amygdal (React + Vite + Vitest + Vue + Remix + Sveltekit)
 - HENNGE (React / Vue / Vite / Vitest / Remix)
+- DoShare Cloud (Nuxt + Vite and Next + Vite)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
