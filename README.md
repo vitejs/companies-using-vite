@@ -148,6 +148,7 @@ Add yours via a pull request!
 - Amygdal (React + Vite + Vitest + Vue + Remix + Sveltekit)
 - HENNGE (React / Vue / Vite / Vitest / Remix)
 - DoShare Cloud (Nuxt + Vite and Next + Vite)
+- Insurance Bureau of Canada (React + Vite)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
