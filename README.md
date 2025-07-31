@@ -135,6 +135,7 @@ Add yours via a pull request!
 - Bitfactory NL / NOBEARS (Vue + InertiaJS + Nuxt + Laravel + WordPress)
 - Riqra (React + Vite)
 - ASICS Technology (Vue + Vite)
+- Kinde (vite + vitest)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
