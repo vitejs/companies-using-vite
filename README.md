@@ -150,6 +150,7 @@ Add yours via a pull request!
 - DoShare Cloud (Nuxt + Vite and Next + Vite)
 - Insurance Bureau of Canada (React + Vite)
 - Annexio Ltd (Vite + Vue + Nuxt)
+- GetYourGuide (Vue + Vite)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
