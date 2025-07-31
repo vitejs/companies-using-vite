@@ -126,6 +126,7 @@ Add yours via a pull request!
 - Travelpass (Remix + Vite + Vitest)
 - Kaspi.kz
 - Papaya Insurtech (React + Vite)
+- Hornetsecurity
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
