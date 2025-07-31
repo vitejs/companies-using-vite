@@ -160,6 +160,7 @@ Add yours via a pull request!
 - Hoson Soft (Vue + Vite)
 - Tazapay (Vue + Vite)
 - Zappar
+- Hungerbox (React + Vite)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
