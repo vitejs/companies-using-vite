@@ -132,6 +132,7 @@ Add yours via a pull request!
 - Elate (React + Vite + Vitest)
 - Sizzle.gg (Remix+ Vite + Vitest)
 - Segments.ai (Vue + Vite + Vitest)
+- Bitfactory NL / NOBEARS (Vue + InertiaJS + Nuxt + Laravel + WordPress)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
