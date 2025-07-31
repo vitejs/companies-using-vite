@@ -125,6 +125,7 @@ Add yours via a pull request!
 - Shanghai Candy Rectangle Technology Co., Ltd. (WordPress / Vue + Vite / Nuxt)
 - Travelpass (Remix + Vite + Vitest)
 - Kaspi.kz
+- Papaya Insurtech (React + Vite)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
