@@ -159,6 +159,7 @@ Add yours via a pull request!
 - Recreational Equipment, Inc. (Vite / Vitest / Vue / Nuxt)
 - Hoson Soft (Vue + Vite)
 - Tazapay (Vue + Vite)
+- Zappar
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
