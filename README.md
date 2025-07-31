@@ -164,6 +164,7 @@ Add yours via a pull request!
 - Brightly, a siemens company (Vue + Vite + Vitest)
 - AllFactors (Django + Go + React + Vite)
 - Deputy (Vue + Vite + Vitest)
+- Bas Software (React + Vite + Vitest)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
