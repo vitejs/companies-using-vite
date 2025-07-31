@@ -141,6 +141,7 @@ Add yours via a pull request!
 - Shaadi.com (React + Vite)
 - Fresco (React + Vite + Vitest)
 - Pixeldust Technologies (Vite + Vue / Nuxt / React)
+- Virtru (React + Vite + Vitest)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
