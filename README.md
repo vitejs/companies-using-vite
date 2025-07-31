@@ -140,6 +140,7 @@ Add yours via a pull request!
 - Smake IT GmbH (Vue / Nuxt / Vitest / VitePress / Storybook / Playwright)
 - Shaadi.com (React + Vite)
 - Fresco (React + Vite + Vitest)
+- Pixeldust Technologies (Vite + Vue / Nuxt / React)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
