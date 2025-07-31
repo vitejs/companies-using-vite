@@ -136,6 +136,7 @@ Add yours via a pull request!
 - Riqra (React + Vite)
 - ASICS Technology (Vue + Vite)
 - Kinde (vite + vitest)
+- Red Hat, Inc
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
