@@ -105,7 +105,6 @@ Add yours via a pull request!
 - Coditive (WordPress / Vue / Nuxt)
 - Devo Inc. (React + Vite + Vitest)
 - Stormkit (React + Vite)
-- [Meadow](https://www.meadowfi.com/) (React + Vite + Vitest)
 - The Washington Post (Astro, React + Vite)
 - Kpler (Vue + Vite + Vitest)
 - Schibsted
@@ -122,6 +121,13 @@ Add yours via a pull request!
 - Mercedes Benz (Vue + Vite + Vitest + Vitepress + Slidev)
 - Famobi (React + Vite)
 - KNIME (Vue / Nuxt)
+- Ayvens Netherlands (Vue + Vite + Vitest)
+- Shanghai Candy Rectangle Technology Co., Ltd. (WordPress / Vue + Vite / Nuxt)
+- Travelpass (Remix + Vite + Vitest)
+- Kaspi.kz
+- Papaya Insurtech (React + Vite)
+- Hornetsecurity
+- Meadow (React + Vite + Vitest)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
