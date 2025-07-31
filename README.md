@@ -161,6 +161,7 @@ Add yours via a pull request!
 - Tazapay (Vue + Vite)
 - Zappar
 - Hungerbox (React + Vite)
+- Brightly, a siemens company (Vue + Vite + Vitest)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
