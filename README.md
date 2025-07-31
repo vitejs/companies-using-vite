@@ -137,6 +137,7 @@ Add yours via a pull request!
 - ASICS Technology (Vue + Vite)
 - Kinde (vite + vitest)
 - Red Hat, Inc
+- Smake IT GmbH (Vue / Nuxt / Vitest / VitePress / Storybook / Playwright)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
