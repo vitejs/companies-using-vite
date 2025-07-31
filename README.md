@@ -143,6 +143,7 @@ Add yours via a pull request!
 - Pixeldust Technologies (Vite + Vue / Nuxt / React)
 - Virtru (React + Vite + Vitest)
 - Analog Devices (React + Vite + Vitest)
+- Vermont Open Source Project Office @ the University of Vermont (Vue+Vite, Sveltekit)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
