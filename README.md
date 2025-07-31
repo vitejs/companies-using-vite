@@ -120,8 +120,10 @@ Add yours via a pull request!
 - Sportradar (Vite + Vitest + Vue + Nuxt)
 - Mercedes Benz (Vue + Vite + Vitest + Vitepress + Slidev)
 - Famobi (React + Vite)
-- Travelpass (Remix + Vite + Vitest)
 - KNIME (Vue / Nuxt)
+- Ayvens Netherlands (Vue + Vite + Vitest)
+- Shanghai Candy Rectangle Technology Co., Ltd. (WordPress / Vue + Vite / Nuxt)
+- Travelpass (Remix + Vite + Vitest)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
