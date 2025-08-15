@@ -167,6 +167,7 @@ Add yours via a pull request!
 - Bas Software (React + Vite + Vitest)
 - Vitalize Care (React + Vite)
 - Webmobix Solutions AG (React + Vite + Vitest)
+- Capture.dev (React + Vite)
 - [Your company](https://github.com/vitejs/companies-using-vite/edit/main/README.md)
 
 ## Frameworks and tools that depend on Vite
